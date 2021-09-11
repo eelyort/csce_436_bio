@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/csce_436_bio/static/css/main.a9a67646.chunk.css",
+    "main.js": "/csce_436_bio/static/js/main.a9f38ab3.chunk.js",
+    "main.js.map": "/csce_436_bio/static/js/main.a9f38ab3.chunk.js.map",
+    "runtime-main.js": "/csce_436_bio/static/js/runtime-main.4f87cc1e.js",
+    "runtime-main.js.map": "/csce_436_bio/static/js/runtime-main.4f87cc1e.js.map",
+    "static/js/2.db8b7adc.chunk.js": "/csce_436_bio/static/js/2.db8b7adc.chunk.js",
+    "static/js/2.db8b7adc.chunk.js.map": "/csce_436_bio/static/js/2.db8b7adc.chunk.js.map",
+    "static/js/3.b167cfb1.chunk.js": "/csce_436_bio/static/js/3.b167cfb1.chunk.js",
+    "static/js/3.b167cfb1.chunk.js.map": "/csce_436_bio/static/js/3.b167cfb1.chunk.js.map",
+    "index.html": "/csce_436_bio/index.html",
+    "static/css/main.a9a67646.chunk.css.map": "/csce_436_bio/static/css/main.a9a67646.chunk.css.map",
+    "static/js/2.db8b7adc.chunk.js.LICENSE.txt": "/csce_436_bio/static/js/2.db8b7adc.chunk.js.LICENSE.txt",
+    "static/media/LI-Logo.a95afc06.png": "/csce_436_bio/static/media/LI-Logo.a95afc06.png",
+    "static/media/Profile_Picture_Cropped.2b3f06aa.jpg": "/csce_436_bio/static/media/Profile_Picture_Cropped.2b3f06aa.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f87cc1e.js",
+    "static/js/2.db8b7adc.chunk.js",
+    "static/css/main.a9a67646.chunk.css",
+    "static/js/main.a9f38ab3.chunk.js"
+  ]
+}
